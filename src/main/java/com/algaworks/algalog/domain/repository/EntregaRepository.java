@@ -8,4 +8,5 @@ import com.algaworks.algalog.domain.model.Entrega;
 @Repository
 public interface EntregaRepository extends JpaRepository<Entrega, Long>{
 
+	
 }
